@@ -3,6 +3,7 @@
 2.Click StreamDiffusionTD1，find install  
 install the StreamDiffusion folder next to the gesture folder
 ![1](https://github.com/Beryllle/Gesture/blob/main/Screenshot/sd_install.png)  
+![1](https://github.com/Beryllle/Gesture/blob/main/Screenshot/sdfolder.png)  
 
 3.Install these three steps.You need to install the correct version of python and CUDA like this  
 ![2](https://github.com/Beryllle/Gesture/blob/main/Screenshot/right_version.png)  
